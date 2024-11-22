@@ -1,4 +1,4 @@
-![Screenshot (61)](https://github.com/user-attachments/assets/8808a25a-455d-476f-8065-b7dfaaca4149)# 32Bit_ALU Simulation
+# 32Bit_ALU Simulation
 
 # Aim: 
 
